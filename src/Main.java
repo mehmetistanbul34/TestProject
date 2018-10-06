@@ -10,6 +10,7 @@ public class Main {
 		}
 		
 		mehmetFonksiyon("HalilCakmak",5678,arrB);
+		System.out.println("MehmetCakmak");
  	}
 	
 	
