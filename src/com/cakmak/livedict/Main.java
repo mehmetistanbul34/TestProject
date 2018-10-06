@@ -26,7 +26,7 @@ public class Main {
 		System.out.println("User Sokak = "+ user1.getAddress().getSokak());
 		System.out.println("User Email= "+ user1.getEmail());
 		System.out.println("User Sokak = "+ user1.getAddress().getSokak());
-	   
+	    sssssssssssss
 	    String str = user1.toString();
 	    System.out.println("Strrrrr : "+str);
 	    String str1 = user1.toString();
